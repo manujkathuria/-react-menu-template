@@ -21,4 +21,4 @@ The build is minified and the filenames include the hashes.<br />
 
 ## Demo
 
-![alt text](https://github.com/manujkathuria/react-menu-template/react-menu.gif)
+![alt text](https://github.com/manujkathuria/react-menu-template/blob/master/react-menu.gif)
